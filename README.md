@@ -1,1 +1,13 @@
-# Digital-Marketing-Strategy
+# Digital-Marketing-Strategy - Group 4
+
+This repository contains the collective work of Team 4 for the course Digital Marketing Strategy at the Amsterdam University of Applied Sciences. The project, titled “Increasing Engagement Through Realistic Beauty Content on Instagram”, explores how makeup brands can communicate on Instagram in ways that drive engagement while reducing the harmful effects of unrealistic beauty standards.
+
+The report and supporting notebooks present a mixed-methods approach. Quantitative analysis was carried out using non-parametric statistical tests such as the Shapiro-Wilk, Mann-Whitney U, Kolmogorov-Smirnov, and D’Agostino & Pearson K² tests. To capture more complex patterns, a multilevel modelling framework was applied, allowing us to examine how engagement outcomes vary across brand tiers (luxury, midrange, and drugstore) and influencer strategies. Alongside the numbers, qualitative coding of captions and influencer presentation styles provided depth and context.
+
+The findings show a consistent preference for realistic and authentic content. Brand posts and influencer messages that emphasized natural features and relatable storytelling generated higher engagement in the form of likes and comments. Dynamic content formats, such as Reels and video posts, helped improve visibility, though they did not automatically translate into richer audience interaction without emotional resonance. Importantly, the multilevel results demonstrated that effectiveness depends strongly on brand tier. Luxury brands benefited from aspirational influencer content, whereas midrange and drugstore audiences reacted more positively to community-driven and relatable narratives.
+
+This repository includes the final project report in PDF format and a series of Jupyter notebooks. Each notebook corresponds to one of the hypotheses tested in the study. The “Hypothesis 1–3” notebooks cover the statistical tests for brand content type, influencer content type, and post format, while the “Multilevel Analysis” notebook models brand-tier variation. Together, these files provide a transparent view of the analysis process and allow for reproducibility.
+
+The work was carried out as a group project by Team 4, consisting of  Ferdinand Iguodala, Ruta, Wendy, and Wulandari, under the guidance of lecturers Leontine van Geffen-Wenink and Debarati Bhaumik (Ph.D. candidate). Each team member contributed to the introduction, literature review, methodology, and discussion, and also took responsibility for specific hypotheses, ensuring balanced collaboration throughout the project.
+
+This repository reflects the combined effort of the group, not the work of any individual alone. It stands as an academic contribution to the Master’s in Digital Driven Business, demonstrating how data-driven analysis and critical reflection can inform ethical and effective digital marketing practices.
